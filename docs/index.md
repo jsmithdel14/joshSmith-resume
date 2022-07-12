@@ -30,7 +30,9 @@ __Hillsboro High School - Oregon__, Hillsboro, OR
 `January 2023 - July 2023`
 __Intel__, Hillsboro, OR
 
-- _____________________
+- Planned internship(not done yet)
+- Goal will be to learn from a group of developers important skills in the workplace
+- Gain a better understanding of the role of computer scientists
 
 ### Work Experience
 
