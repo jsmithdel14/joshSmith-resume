@@ -6,10 +6,9 @@ title: Joshua Smith's Resume
 Computer Scientist, BYUI Student
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+<a href="jsmithdel14@byui.edu">jsmithdel14@byui.edu</a>
+| <a href="https://www.linkedin.com/in/joshua-smith-373ab71b7/">LinkedIn</a>
+| <a href="https://github.com/jsmithdel14/joshSmith-resume">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
@@ -20,6 +19,11 @@ Computer Scientist, BYUI Student
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - 3.8 Major GPA
+
+`2020 - 2024`
+__Hillsboro High School - Oregon__, Hillsboro, OR
+
+- 3.7 GPA
 
 ### Internships
 
@@ -33,35 +37,33 @@ __Intel__, Hillsboro, OR
 `Janurary 2021 - August 2021`
 __Amazon__, Worker
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+- Organized packages, sending packages out faster with less damaged products being returned
+- Helped head management and learned each position in warehouse to help make jobs easier
+- Managed over small groups while loading pallets onto trailers
+- Led employees by learning and helping in any area short staffed
 
 `September 2021 - Current`
 __BYUI-Costotial__, Custodian
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+- Help maintain the cleanliness of the I Center for BYU-Idaho
+- Cleaned or set up any events the school needed help with in the I Center 
+- Worked in a team as well as indivudually with different jobs or tasks.
+
+`May 2020 - August 2020`
+__Albertsons Cashier__, Cashier
+
+- Aided customers with check out needs in check stand or at self check out and various questions customers had
+- Maintained shelf order and cleanliness to better sale products and make it easier for customers to find
+- Managed opening of Albertsons each morning to allow customers access to products
+- Called floor sweeps over intercom to inform each department of responsiblities, allowing business run smoother within store
+
+### Languages
+- English
+- Python
+- C#
+- R
 
 
-### Data Science Consulting Team
 
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-<!-- ### Footer
-
-Last updated: May 2013 -->
 
 
