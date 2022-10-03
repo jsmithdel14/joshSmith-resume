@@ -1,3 +1,3 @@
-Josh Smith Resume
+Josh Smith Resume(not current)
 
-DS250
+Basic resume with the goal of learning how to collaborate with others on github and gain more experience using markdown.
